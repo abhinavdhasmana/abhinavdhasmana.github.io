@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Node.js"
 categories: Nodejs
-image: /img/blog/nodejs.png
+image: /images/blog/nodejs.png
 author: Abhinav Dhasmana
 ---
 We recently started a "lunch and learn" group where we introduced node.js. I am a full time RoR developer and wanted to develop a spike in NodeJS. Afterall, javascript is eating the programming world.

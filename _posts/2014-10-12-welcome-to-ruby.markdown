@@ -5,7 +5,7 @@ date:   2014-11-10 14:13:12
 categories: Ruby
 short_text: Why I love ruby
 long_text: Why I love ruby
-image: /img/i_love_ruby.jpg
+image: /images/i_love_ruby.jpg
 author: Abhinav Dhasmana
 ---
 Among many other things which I love about ruby, one thing that strikes me out is that its built for developers.

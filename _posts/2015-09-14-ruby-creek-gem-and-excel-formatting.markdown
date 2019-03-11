@@ -16,7 +16,7 @@ This brought me to inspect on how creek is returning data. This is what I experi
 Created two columns in a simple excel. First column (`Data 1`) will always be General while the second column(`Data 2`) I'll keep on changing.
 
 First one is pretty simple, both `Data 1` and `Data 2` are formatted as general as shown below
-![below](/img/blog/creek_excel/creek_general.png)
+![below](/images/blog/creek_excel/creek_general.png)
 
 I run the following code.
 
@@ -43,7 +43,7 @@ which makes sense.
 
 Next time I changed `Data 2` to Number with 2 decimal precision.
 
-![](/img/blog/creek_excel/creek_floating.png)
+![](/images/blog/creek_excel/creek_floating.png)
 
 
 
@@ -71,7 +71,7 @@ If we look at this more closely, the last two digits(03) get trimmed.
 
 Next time I changed `Data 2` to Number with 0 decimal precision.
 
-![](/img/blog/creek_excel/creek_number.png)
+![](/images/blog/creek_excel/creek_number.png)
 
 I run the following code.
 

@@ -2,11 +2,11 @@
 layout: post
 title:  "Mid year review"
 categories: self
-image: /img/blog/mid-year-1.jpg
+image: /images/blog/mid-year-1.jpg
 author: Abhinav Dhasmana
 ---
 
-![Time does not change anything](/img/blog/mid-year-1.jpg)
+![Time does not change anything](/images/blog/mid-year-1.jpg)
 
 I love fixing broken things. Nothing excites me more. It can be frustating, time consuming and head scratching but its fun. Digging deep into why I love this, I realized that because I can measure the problem. An API is slow: measure it, fix it, measure it. Done. Deployment is broken: start back tracking, find the failing compnonent/process/box, fix it, deploy. Done
 

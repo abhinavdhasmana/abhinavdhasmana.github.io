@@ -2,7 +2,7 @@
 layout: post
 title:  "Understand git cherry pick"
 categories: git
-image: /img/blog/git-cherry-pick/git-cherry-pick.png
+image: /images/blog/git-cherry-pick/git-cherry-pick.png
 author: Abhinav Dhasmana
 ---
 Simply put, `git cherry pick` is used to take the contents of one commit and put it on top of your current branch.
@@ -21,12 +21,12 @@ What the documentation does not mention is what gets picked when you take that c
 * Create a new branch `cherrypick`.
 * Create a new commit. This commit modifies one of the existing file (2.txt) and adds a new file (3.txt).
 
-<img src="/img/blog/git-cherry-pick/diff1.png" alt="Commit 1" style="width: 720px;"/>
+<img src="/images/blog/git-cherry-pick/diff1.png" alt="Commit 1" style="width: 720px;"/>
 
 
 * Make another commit on cherrypick branch. This again modifies the 2.txt file again.
 
-<img src="/img/blog/git-cherry-pick/diff2.png" alt="Commit 2" style="width: 720px;"/>
+<img src="/images/blog/git-cherry-pick/diff2.png" alt="Commit 2" style="width: 720px;"/>
 
 
 Now I need a change that is made in step 4. So this is what I did
