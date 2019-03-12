@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to seed test database in node"
-categories: node
+categories: Node.js
 author: Abhinav Dhasmana
 ---
 Writing test cases is critical to any project. Any real test cases would require the test case to talk to the database. Seeding the database is a standard practice which allows the test cases to run and validate on top of the existing data.
