@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to quickly deploy React and Node app on AWS"
+title:  "How to deploy React and Node app on AWS: A better approach"
 categories: [Node.js, AWS, Gitlab, Nginx]
 author: Abhinav Dhasmana
 ---
@@ -40,7 +40,7 @@ In this design, we would decouple our Node app and React app. We would introduce
 
 ### **Deploy Node App**
 
-This is covered in my blog post: [How to deploy Node.js app on AWS with GitLab]{% post_url 2017-05-03-How-to-deploy-Nodejs-app-on-AWS-with-GitLab %}
+This is covered in my blog post: [How to deploy Node.js app on AWS with GitLab]{% post_url 2018-05-03-How-to-deploy-Nodejs-app-on-AWS-with-GitLab %}
 ### Deploy React App
 
 This is very similar, rather much simpler than node deployment, as we do not have to ssh into the AWS EC2 instance.

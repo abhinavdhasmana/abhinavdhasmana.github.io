@@ -59,4 +59,4 @@ P.P.S: We could have used nginx to run on port 80 and map to our server port. It
 
 Once done, you are good to go!!
 
-PS: If you are looking to automate all these steps, I have written a new blog post: [How to deploy React and Node app on AWS: A better approach]({% post_url 2017-05-15-How-to-deploy-React-and-Node-app-on-AWS-A-better-approach %})
+PS: If you are looking to automate all these steps, I have written a new blog post: [How to deploy React and Node app on AWS: A better approach]({% post_url 2018-05-15-How-to-deploy-React-and-Node-app-on-AWS-A-better-approach %})
