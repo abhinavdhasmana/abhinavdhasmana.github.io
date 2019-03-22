@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "System Design: Create a url shortening service (Part 5): Performance testing on AWS"
-categories: [Node.js, AWS, JMeter, Redis]
+tags: [Node.js, AWS, JMeter, Redis]
 author: Abhinav Dhasmana
 ---
 
 This is part of a blog series where we design, develop, optimize, deploy and test a URL shortener service from scratch.
 
-*   Part 1: [Overview]({% post_url 2018-03-29-System-Design-Create-a-url-shortening-service-(Part-1)-Overview %})
-*   Part 2: [Design the write API]({% post_url 2018-03-30-System-Design-Create-a-url-shortening-service-(Part-2)-Design-the-write-API %})
-*   Part 3: [Read API, Load testing and Performance improvement]({% post_url 2018-03-31-System-Design-Create-a-url-shortening-service-(Part-3) %})
-*   Part 4: [Deploy to AWS]({% post_url 2018-04-01-System-Design-Create-a-url-shortening-service-(Part-4) %})
+*   Part 1: [Overview]({% post_url 2018-03-29-system-design-create-a-url-shortening-service-part-1-overview %})
+*   Part 2: [Design the write API]({% post_url 2018-03-30-system-design-create-a-url-shortening-service-part-2-design-the-write-api %})
+*   Part 3: [Read API, Load testing and Performance improvement]({% post_url 2018-03-31-system-design-create-a-url-shortening-service-part-3-read-api-load-testing-and-performance %})
+*   Part 4: [Deploy to AWS]({% post_url 2018-04-01-system-design-create-a-url-shortening-service-part-4-deploy-to-aws %})
 *   **Part 5: Performance testing on AWS**
 
 * * *

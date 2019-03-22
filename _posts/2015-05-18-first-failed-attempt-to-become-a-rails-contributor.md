@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first attempt to contribute to rails"
-categories: opensource
+tags: opensource
 author: Abhinav Dhasmana
 ---
 After pondering over months, I decided to try and contribute to rails. I setup by system as described in the [Contributing to Ruby on Rails][Contributing-to-Ruby-on-Rails]

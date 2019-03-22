@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to deploy Node.js app on AWS with GitLab"
-categories: [Node.js, AWS, Gitlab, Continuous Integration]
+tags: [Node.js, AWS, Gitlab, Continuous Integration]
 author: Abhinav Dhasmana
 ---
 

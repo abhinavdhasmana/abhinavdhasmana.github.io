@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to install go in suse"
-categories: golang
+tags: golang
 author: Abhinav Dhasmana
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Everyday Software Design Patterns"
-categories: [JavaScript,  Node.js, Design Patterns]
+tags: [JavaScript,  Node.js, Design Patterns]
 summary: Some basic examples of design patterns
 author: Abhinav Dhasmana
 ---

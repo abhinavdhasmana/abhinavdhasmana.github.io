@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git 101 and its day to day usage: Part 1"
-categories: [Git]
+tags: [Git]
 summary: Git commands
 author: Abhinav Dhasmana
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to prevent XSS attack in Rails Controller"
-categories: Ruby
+tags: Ruby
 author: Abhinav Dhasmana
 ---
 

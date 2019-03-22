@@ -2,7 +2,7 @@
 layout: post
 title:  "Why ruby is awesome"
 date:   2014-11-10 14:13:12
-categories: Ruby
+tags: Ruby
 short_text: Why I love ruby
 long_text: Why I love ruby
 image: /images/i_love_ruby.jpg

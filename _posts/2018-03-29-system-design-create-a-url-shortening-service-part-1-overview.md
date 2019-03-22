@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "System Design: Create a url shortening service (Part 1): Overview"
-categories: [AWS, software design, Software Development]
+tags: [AWS, software design, Software Development]
 author: Abhinav Dhasmana
 ---
 
@@ -40,10 +40,10 @@ The complete code can be found on [Github](https://github.com/abhinavdhasmana/ti
 This series is comprised of following parts:
 
 *   **Part 1: Overview**
-*   Part 2: [Design the write API]({% post_url 2018-03-30-System-Design-Create-a-url-shortening-service-(Part-2)-Design-the-write-API %})
-*   Part 3: [Read API, Load testing and Performance improvement]({% post_url 2018-03-31-System-Design-Create-a-url-shortening-service-(Part-3) %})
-*   Part 4: [Deploy to AWS]({% post_url 2018-04-01-System-Design-Create-a-url-shortening-service-(Part-4) %})
-*   Part 5: [Performance testing on AWS]({% post_url 2018-04-02-System-Design-Create-a-url-shortening-service-(Part-5) %})
+*   Part 2: [Design the write API]({% post_url 2018-03-30-system-design-create-a-url-shortening-service-part-2-design-the-write-api %})
+*   Part 3: [Read API, Load testing and Performance improvement]({% post_url 2018-03-31-system-design-create-a-url-shortening-service-part-3-read-api-load-testing-and-performance %})
+*   Part 4: [Deploy to AWS]({% post_url 2018-04-01-system-design-create-a-url-shortening-service-part-4-deploy-to-aws %})
+*   Part 5: [Performance testing on AWS]({% post_url 2018-04-02-system-design-create-a-url-shortening-service-part-5-performance-testing-on-aws %})
 
 
 

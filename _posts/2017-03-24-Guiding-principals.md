@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Guiding Principals"
-categories: [Programming, Software Development, Technology]
+tags: [Programming, Software Development, Technology]
 summary: Things other than coding which makes a great developer
 author: Abhinav Dhasmana
 ---
 
 # Guiding principals
 
-_This is a part three of a series of blog where I am planning to capture on how we provide technical apprenticeship to new college graduates that intern with us. Here is_ [_Part 1_]({% post_url 2017-02-15-Git-101-and-its-day-to-day-usage-Part-1 %})_,_ [_Part 2_]({% post_url 2017-02-22-Git-101-and-its-day-to-day-usage-Part-2 %})
+_This is a part three of a series of blog where I am planning to capture on how we provide technical apprenticeship to new college graduates that intern with us. Here is_ [_Part 1_]({% post_url 2017-02-15-git-101-and-its-day-to-day-usage-part-1 %})_,_ [_Part 2_]({% post_url 2017-02-22-git-101-and-its-day-to-day-usage-part-2 %})
 
 There are so many things other than one’s programming abilities that makes a great developer and a great colleague. Here are some of the things that we tell our interns to inculcate over time.
 

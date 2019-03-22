@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How we implemented multi-tenancy in our Node.js App"
-categories: [Node.js, JavaScript, Sequelize.js, Multitenancy]
+tags: [Node.js, JavaScript, Sequelize.js, Multitenancy]
 summary: How to convert a single tenant application into multi-tenant with Sequelize.js
 author: Abhinav Dhasmana
 ---

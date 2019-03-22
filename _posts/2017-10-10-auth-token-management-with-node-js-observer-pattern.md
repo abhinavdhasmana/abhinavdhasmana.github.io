@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Auth token management with Node.js Observer pattern"
-categories: [Node.js, software design pattern, Authentication]
+tags: [Node.js, software design pattern, Authentication]
 author: Abhinav Dhasmana
 ---
 

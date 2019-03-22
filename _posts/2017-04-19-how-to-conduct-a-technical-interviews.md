@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to conduct technical interviews"
-categories: [Interview]
+tags: [Interview]
 summary: Tech interviews are broken. Let's do our best to fix it
 author: Abhinav Dhasmana
 ---

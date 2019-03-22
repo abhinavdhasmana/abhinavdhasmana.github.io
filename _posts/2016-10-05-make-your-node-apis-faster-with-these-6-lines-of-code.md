@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make your Node APIs faster with these 6 lines of code"
-categories: [Node.js, JavaScript, Performance, Cache]
+tags: [Node.js, JavaScript, Performance, Cache]
 summary: Use in memory cache to boost your api performance
 author: Abhinav Dhasmana
 ---

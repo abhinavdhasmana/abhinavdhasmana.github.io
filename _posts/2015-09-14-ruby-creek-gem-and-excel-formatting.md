@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creek gem and how it handles cell formatting"
-categories: ruby
+tags: ruby
 author: Abhinav Dhasmana
 ---
 

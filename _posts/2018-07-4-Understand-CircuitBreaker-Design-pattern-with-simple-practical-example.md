@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understand CircuitBreaker Design pattern with simple practical example"
-categories: [Node.js, Design Pattern, JavaScript]
+tags: [Node.js, Design Pattern, JavaScript]
 author: Abhinav Dhasmana
 ---
 

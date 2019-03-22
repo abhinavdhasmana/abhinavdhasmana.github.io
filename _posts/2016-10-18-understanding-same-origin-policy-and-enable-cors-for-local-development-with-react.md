@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding same-origin policy and enable CORS for local development with react"
-categories: [JavaScript, CORS, React.js, proxy server, Node.js]
+tags: [JavaScript, CORS, React.js, proxy server, Node.js]
 summary: Understand CORS and use haproxy or webproxy to solve it
 author: Abhinav Dhasmana
 ---

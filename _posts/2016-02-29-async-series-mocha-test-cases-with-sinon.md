@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Writing mocha test cases for async.series with sinon"
-categories: Node.js
+tags: Node.js
 author: Abhinav Dhasmana
 ---
 Writing test cases can be challenging in node specially when we are new to node. This task becomes even more difficult when we have to write async test cases. If you have one function calling many more functions, its icing on the cake.

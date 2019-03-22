@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Git 101 and its day to day usage: Part 2"
-categories: [Git]
+tag: [Git]
 summary: Git commands
 author: Abhinav Dhasmana
 ---
 
-_This is a part two of a series of blog where I am planning to capture on how we provide technical apprenticeship to new college graduates that intern with us. Part 1 can be found_ [_here_]({% post_url 2017-02-15-Git-101-and-its-day-to-day-usage-Part-1 %})
+_This is a part two of a series of blog where I am planning to capture on how we provide technical apprenticeship to new college graduates that intern with us. Part 1 can be found_ [_here_]({% post_url 2017-02-15-git-101-and-its-day-to-day-usage-part-1 %})
 
 * * *
 
-If you noticed in [part 1]({% post_url 2017-02-15-Git-101-and-its-day-to-day-usage-Part-1 %}), everything was about working with git changes that are local on your box. This post will cover some common scenarios which you might encounter.
+If you noticed in [part 1]({% post_url 2017-02-15-git-101-and-its-day-to-day-usage-part-1 %}), everything was about working with git changes that are local on your box. This post will cover some common scenarios which you might encounter.
 
 **Scenario 1:** You are starting a new feature/bug fix.
 

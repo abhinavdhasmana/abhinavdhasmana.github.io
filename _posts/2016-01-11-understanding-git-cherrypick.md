@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understand git cherry pick"
-categories: git
+tag: git
 image: /images/blog/git-cherry-pick/git-cherry-pick.png
 author: Abhinav Dhasmana
 ---

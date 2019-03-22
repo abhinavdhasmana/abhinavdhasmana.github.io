@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Node.js"
-categories: Node.js
+tags: Node.js
 image: /images/blog/nodejs.png
 author: Abhinav Dhasmana
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Welcome to Javascript and 'this' keyword"
-categories: [JavaScript, ES6]
+tags: [JavaScript, ES6]
 summary: Introduction to JavaScript 'this' keyword
 author: Abhinav Dhasmana
 ---
 
-_This is a part four of a series of blog where I am planning to capture on how we provide technical apprenticeship to new college graduates that intern with us. Here is_ [_Part 1_]({% post_url 2017-02-15-Git-101-and-its-day-to-day-usage-Part-1 %})_,_ [_Part 2_]({% post_url 2017-02-22-Git-101-and-its-day-to-day-usage-Part-2 %}),_ [_Part 3_]({% post_url 2017-03-24-Guiding-principals %})
+_This is a part four of a series of blog where I am planning to capture on how we provide technical apprenticeship to new college graduates that intern with us. Here is_ [_Part 1_]({% post_url 2017-02-15-git-101-and-its-day-to-day-usage-part-1 %})_,_ [_Part 2_]({% post_url 2017-02-22-git-101-and-its-day-to-day-usage-part-2 %}),_ [_Part 3_]({% post_url 2017-03-24-guiding-principals %})
 
 
 * * *

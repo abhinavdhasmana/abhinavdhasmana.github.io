@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mid year review"
-categories: self
+tag: self
 image: /images/blog/mid-year-1.jpg
 author: Abhinav Dhasmana
 ---
