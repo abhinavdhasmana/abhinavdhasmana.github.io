@@ -2,9 +2,9 @@
 title: Abhinav Dhasmana
 email: abhinav.dhasmana@live.com
 author: Abhinav Dhasmana
-description: "Blog of Abhinav Dhasmana where he writes about technology"
+description: "Abhinav Dhasmana's blog"
 baseurl: ""
-url: "http://abhinavdhasmana.com"
+url: "http://abhinavdhasmana.in"
 date_format: "%b %-d, %Y"
 header_pages:
   - about.md
@@ -14,14 +14,14 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-57977557-1
 google_tag_manager:
 # Bing services
 bing_verification:
 
 # Optional features
 animated: false
-show_related_posts: true
+show_related_posts: false
 show_post_footers: false
 show_social_icons: true
 ajaxify_contact_form: false
