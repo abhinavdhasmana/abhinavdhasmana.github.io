@@ -4,7 +4,7 @@ email: abhinav.dhasmana@live.com
 author: Abhinav Dhasmana
 description: "Abhinav Dhasmana's blog"
 baseurl: ""
-url: "http://abhinavdhasmana.in"
+url: "https://abhinavdhasmana.in"
 date_format: "%b %-d, %Y"
 header_pages:
   - about.md
